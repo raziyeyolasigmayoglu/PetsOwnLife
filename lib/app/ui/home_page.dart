@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.deepPurple,
-        title: const Text('Flutter UIs'),
+        title: const Text('Pets Own Life'),
         elevation: 0,
       ),
       body: SafeArea(
